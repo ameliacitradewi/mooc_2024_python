@@ -9,7 +9,6 @@ Hello there, curious coder! Welcome to my repository where I document my journey
 ## Why Visit? 🤔
 
 - **Educate:** Explore my solutions and learn from the shared experiences (and occasional missteps).
-- **Entertain:** Enjoy the commentary. Coding doesn't have to be serious all the time!
 - **Engage:** Ideas to improve my code? Contributions are warmly welcomed. Let's learn together!
 
 ## Support or Contact 📢
