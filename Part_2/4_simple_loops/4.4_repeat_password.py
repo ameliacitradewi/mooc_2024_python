@@ -4,7 +4,7 @@ password = input("Password:")
 while True:
     repeat = input("Repeat password:")
 
-    if password != repeat:
+    if repeat != password:
         print("They do not match!")
     else:
         print("User account created!")
