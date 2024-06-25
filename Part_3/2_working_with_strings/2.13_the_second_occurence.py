@@ -4,6 +4,9 @@ substring = input("Please type in a substring:")
 
 first_index = word.find(substring)
 
+if substring not in word:
+    print("The substring does not occur twice in the string.")
+    
 if first_index != -1:
     second_index = word.find(substring, first_index + len(substring))
 
